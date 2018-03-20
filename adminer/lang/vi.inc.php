@@ -12,7 +12,7 @@ $translations = array(
 	'Logout successful.' => 'Đã thoát xong.',
 	'Invalid credentials.' => 'Tài khoản sai.',
 	'Too many unsuccessful logins, try again in %d minute(s).' => 'Bạn gõ sai tài khoản quá nhiều lần, hãy thử lại sau %d phút nữa.',
-	'Master password expired. <a href="https://www.adminer.org/en/extension/" target="_blank">Implement</a> %s method to make it permanent.' => 'Mật khẩu đã hết hạn. <a href="https://www.adminer.org/en/extension/" target="_blank">Thử cách làm</a> để giữ cố định.',
+	'Master password expired. <a href="https://www.adminer.org/en/extension/"%s>Implement</a> %s method to make it permanent.' => 'Mật khẩu đã hết hạn. <a href="https://www.adminer.org/en/extension/"%s>Thử cách làm</a> để giữ cố định.',
 	'Language' => 'Ngôn ngữ',
 	'Invalid CSRF token. Send the form again.' => 'Mã kiểm tra CSRF sai, hãy nhập lại biểu mẫu.',
 	'No extension' => 'Không có phần mở rộng',
@@ -238,7 +238,7 @@ $translations = array(
 	'last' => 'cuối',
 	'Load more data' => 'Xem thêm dữ liệu',
 	'Loading' => 'Đang nạp',
-	'whole result' => 'toàn bộ kết quả',
+	'Whole result' => 'Toàn bộ kết quả',
 	'%d byte(s)' => '%d byte(s)',
 	
 	'Import' => 'Nhập khẩu',

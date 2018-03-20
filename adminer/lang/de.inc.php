@@ -186,7 +186,7 @@ $translations = array(
 	'original' => 'Original',
 	'Tables have been dropped.' => 'Tabellen wurden entfernt (drop).',
 	'%d item(s) have been affected.' => '%d Artikel betroffen.',
-	'whole result' => 'Gesamtergebnis',
+	'Whole result' => 'Gesamtergebnis',
 	'Clone' => 'Klonen',
 	'Maximum number of allowed fields exceeded. Please increase %s.' => 'Die maximal erlaubte Anzahl der Felder ist überschritten. Bitte %s erhöhen.',
 	'Partition by' => 'Partitionieren um',
@@ -283,6 +283,6 @@ $translations = array(
 	'Saving' => 'Speichere',
 	'yes' => 'ja',
 	'no' => 'nein',
-	'Master password expired. <a href="https://www.adminer.org/en/extension/" target="_blank">Implement</a> %s method to make it permanent.' => 'Das Master-Passwort ist abgelaufen.  <a href="https://www.adminer.org/de/extension/" target="_blank">Implementieren</a> Sie die %s Methode, um es permanent zu machen.',
+	'Master password expired. <a href="https://www.adminer.org/en/extension/"%s>Implement</a> %s method to make it permanent.' => 'Das Master-Passwort ist abgelaufen. <a href="https://www.adminer.org/de/extension/"%s>Implementieren</a> Sie die %s Methode, um es permanent zu machen.',
 	'%d / ' => '%d / ',
 );
